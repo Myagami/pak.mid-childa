@@ -1,0 +1,12 @@
+Obj=building
+Name=Bardysh(Fate)
+Type=cur
+Passengers=77
+copyright=Hayate Yagami
+intro_year=2010
+chance=100
+dims=1,1,2
+BackImage[0][0][0][0][0][0]=Berdysh_src.0.0
+BackImage[0][0][0][1][0][0]=Berdysh_src.0.1
+BackImage[1][0][0][0][0][0]=Berdysh_src.1.0
+BackImage[1][0][0][1][0][0]=Berdysh_src.1.1

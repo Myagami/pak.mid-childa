@@ -1,0 +1,12 @@
+Obj=building
+Name=Raising_Heart_Excelion
+Type=cur
+Passengers=708
+intro_year=2005
+intro_month=10
+Level=6
+Chance=70
+NoInfo=0
+Dims=1,1,1
+BackImage[0][0][0][0][0][0]=RH_Keeps.0.0
+copyright=H.Yagami

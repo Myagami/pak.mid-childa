@@ -1,0 +1,10 @@
+Obj=building
+Name=Schwertkreuz
+Type=cur
+Passengers=810
+intro_year=2005
+intro_month=12
+chance=100
+dims=1,1,1
+BackImage[0][0][0][0][0][0]=Schwertkreuz.0.0
+BackImage[0][0][0][1][0][0]=Schwertkreuz.0.1
